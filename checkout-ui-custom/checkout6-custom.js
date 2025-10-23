@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
           p.innerHTML = "PARABÉNS! VOCÊ ATINGIU O MÍNIMO PARA O PEDIDO";
         var btnFiz = document.getElementById('cart-to-orderform');
           if (btnFiz) {
-              btnFiz.style.display = "block";
+              btnFiz.style.display = "block"; 
           }
       }
   });
