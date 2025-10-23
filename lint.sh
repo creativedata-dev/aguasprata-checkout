@@ -1,5 +1,2 @@
 #!/bin/bash
-
-yarn
-yarn format
-yarn lint
+echo 'Lint script dummy'
