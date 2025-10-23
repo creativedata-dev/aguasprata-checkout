@@ -5524,7 +5524,7 @@ header .container-fluid .row .prog-bar {
   }
 }
 .cart-active .product-item-attachment-offerings, .cart-active .clone-item-sep, .cart-active .btn-mini, .cart-active .item-attachments-remove {
-        display:none;
+        display:block;
 }
 .item-attachments-content .item-attachments-item-fields .item-attachment-value {
   float: right;
