@@ -1,17 +1,16 @@
 {
   "name": "checkout-ui-settings",
   "version": "1.0.0",
+  "type": "commonjs",
   "scripts": {
     "format": "echo 'format script dummy'",
-    "lint": "echo 'lint script dummy'"
-  }
+    "lint": "echo 'lint script dummy'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "directories": {
     "doc": "docs"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/creativedata-dev/aguasprata-checkout.git"
@@ -19,17 +18,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/creativedata-dev/aguasprata-checkout/issues"
   },
   "homepage": "https://github.com/creativedata-dev/aguasprata-checkout#readme"
-}
-{
-  "name": "checkout-ui-settings",
-  "version": "1.0.0",
-  "scripts": {
-    "format": "echo 'format script dummy'",
-    "lint": "echo 'lint script dummy'"
-  }
 }
